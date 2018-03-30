@@ -1,0 +1,140 @@
+/*Body*/
+
+body {
+    margin: 10px;
+    font-family: monospace, sans-serif;
+}
+
+
+
+#textbox {
+    text-align: right;
+    width: auto;
+    height: 100px;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    font-family: monospace;
+    font-size: 5em;
+    font-weight: bold;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.buttons {
+    width: 100px;
+    height: 100px;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    font-family: monospace;
+    font-size: 5em;
+    font-weight: bold;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.buttons2 {
+    width: 100px;
+    height: 100px;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    font-family: monospace;
+    font-size: 5em;
+    font-weight: bold;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.buttons3 {
+    width: auto;
+    height: 100px;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    font-family: monospace;
+    font-size: 5em;
+    font-weight: bold;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.buttons4 {
+    width: 100px;
+    height: 100px;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    font-family: monospace;
+    font-size: 5em;
+    font-weight: bold;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.buttons5 {
+    width: 100px;
+    height: 100px;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    font-family: monospace;
+    font-size: 5em;
+    font-weight: bold;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.buttons:hover{
+    background-color: royalblue;
+    color: #fff;
+}
+
+.buttons2:hover {
+    background-color: red;
+    color: #fff;
+}
+
+.buttons3:hover {
+    background-color: forestgreen;
+    color: #fff;
+}
+
+.buttons4:hover {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.buttons5:hover {
+    background-color: skyblue;
+    color: #fff;
+}
+
